@@ -7,7 +7,7 @@ public class P3 extends P1{
 		// TODO Auto-generated method stub
 		P3 p3 = new P3();
 		System.out.println(p3.name);
-		
+		System.out.println("Hello World");
 	}
 
 }
